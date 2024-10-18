@@ -1,5 +1,5 @@
 import { fetchAllProjects, fetchProjectBySlug } from "@/lib/api";
-import type { Project, ProjectList } from "../../../../flotiqApi/src";
+import type { Project, ProjectList } from "fqapi-ts-tst";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import Link from "next/link";
