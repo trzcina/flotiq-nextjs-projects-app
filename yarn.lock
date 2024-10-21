@@ -1547,10 +1547,10 @@ form-data@^4.0.0:
     combined-stream "^1.0.8"
     mime-types "^2.1.12"
 
-fqapi-ts-tst@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/fqapi-ts-tst/-/fqapi-ts-tst-0.1.5.tgz#384f809561863ad1892ee56caa500e5f555a930c"
-  integrity sha512-TWOtoroqhAwD5FiT+INL/VzgLfjQLdDSiIq6M0JwBwwxjwi3evKrwAGiUZjy1oSe0g3oWWn1/KYhePHtycR6Rw==
+fqapi-ts-tst@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/fqapi-ts-tst/-/fqapi-ts-tst-0.1.7.tgz#ae07dc03cce0716cb2b66fda32f168fb41c35bd6"
+  integrity sha512-uAR40PFOdejJTZB700Rb8NNmVENtSfczsYqBX6NT4GGtlDdTuhPa7LWOy0NMs1XqXB1t/9d5w84oOU/gni572A==
   dependencies:
     dotenv "^16.4.5"
     dotenv-flow "^4.1.0"
