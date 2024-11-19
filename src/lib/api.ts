@@ -1,4 +1,4 @@
-import { FlotiqApi, Project, ProjectList } from "fqapi-ts-tst";
+import { FlotiqApi, Project, ProjectList } from "flotiq-api-ts";
 
 type ProjectFilter = {
   slug?: {
