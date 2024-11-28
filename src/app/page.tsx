@@ -1,5 +1,5 @@
 import { fetchAllProjects } from "@/lib/api";
-import { Project } from "../../flotiqApi/src";
+import { Project } from "flotiq-api-ts";
 import Image from "next/image";
 import Link from "next/link";
 import { draftMode } from "next/headers";
